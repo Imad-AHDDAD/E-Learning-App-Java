@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/103340643/215910547-72bf08ba-85f0-4b67-8d86-1f35b9efc09a.png)
 
 ---
-### Concernant la base de données , vous trouverez ci joint un fichier "Elearning.sql" , à importer pour qu la base de données soit créée t remplie
+### Concernant la base de données , vous trouverez ci joint un fichier "Elearning.sql" , à importer pour qu la base de données soit créée et remplie
 
 ---
 
